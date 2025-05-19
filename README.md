@@ -21,7 +21,7 @@
 ## 🚀 Tech Stack
 
 ### 💻 Languages  
-![Languages](https://skillicons.dev/icons?i=typescript,javascript,cpp,java,html,css,bash&theme=dark)
+![Languages](https://skillicons.dev/icons?i=typescript,javascript,cpp,java,python,html,css,bash&theme=dark)
 
 ### 🌐 Frameworks & Libraries  
 ![Angular](https://skillicons.dev/icons?i=angular&theme=dark)
@@ -38,17 +38,41 @@
 
 ---
 
+## 🧑‍💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/miko29)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/miko29)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/miko2916)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/miko29)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/miko29)
+
+---
+
+## 🏅 Certifications
+
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/muskan-kumari.413e6e77/badges)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=credly&logoColor=white)](https://www.coursera.org/user/9db37ae8ddd83cc8b4c77214344c714b)
+
+---
+
 ## 📈 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miko-29&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miko-29&layout=pie&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Miko-29&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Miko-29&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://in.linkedin.com/in/muskan-kumari-7a8937227)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:muskan2912002@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Miko-29)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/muskan-kumari-7a8937227)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskan2912002@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miko-29)
+
+---
+
+## 🐍 My Contributions
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/Miko-29/snk/output/github-contribution-grid-snake-dark.svg)
+
+
