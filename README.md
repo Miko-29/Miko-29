@@ -1,7 +1,7 @@
 
 ---
 
-# Hi, I'm Muskan 👩‍💻
+# 👩‍💻 Hi, I'm Muskan ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Miko-29)
 ### 🚀 ***Frontend Developer | Angular Enthusiast | Tech Explorer***
 
 ---
