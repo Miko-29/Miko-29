@@ -1,7 +1,7 @@
 
 ---
 
-# 👩‍💻 Hi, I'm Muskan ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Miko-29)
+# 💻 Hi, I'm Muskan ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Miko-29)
 ### 🚀 ***Frontend Developer | Angular & Ionic Developer | Tech Explorer***
 
 ---
@@ -25,7 +25,7 @@
 
 ### 🌐 Frameworks & Libraries  
 ![Frameworks](https://skillicons.dev/icons?i=angular&theme=dark)
-
+<img src="https://raw.githubusercontent.com/Miko-29/Miko-29/main/ionic%20light%20logo%20black.png" alt="Ionic Light Logo" width="42">
 
 ### 🧰 Tools & Platforms  
 ![Tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,linux&theme=dark)
@@ -34,6 +34,7 @@
 
 ## 💡 Areas of Interest  
 ![Web](https://img.shields.io/badge/Web%20Design%20&%20Development-ffffff?style=for-the-badge&logo=angular&logoColor=red)
+![Mobile](https://img.shields.io/badge/Mobile%20App%20Development-008000?style=for-the-badge&logo=android&logoColor=green)
 ![Security](https://img.shields.io/badge/Cyber%20Security-0f0f0f?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-ffcc00?style=for-the-badge&logo=leetcode&logoColor=black)
 
