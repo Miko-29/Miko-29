@@ -12,7 +12,7 @@
 
  💼 Currently working at **MapmyIndia** as a Software Engineer  
  🎯 Passionate about **Frontend Development** and **Cyber Security**  
- 🛠️ Love building real-time, responsive web applications  
+ 🛠️ Love building real-time, responsive web and mobile applications  
  🤝 Open to collaborations and tech meetups  
  🎨 **Fun fact** : When I’m not coding, I express my creativity through painting!
 
