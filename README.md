@@ -2,7 +2,7 @@
 ---
 
 # 👩‍💻 Hi, I'm Muskan ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Miko-29)
-### 🚀 ***Frontend Developer | Angular Enthusiast | Tech Explorer***
+### 🚀 ***Frontend Developer | Angular & Ionic Developer | Tech Explorer***
 
 ---
 
@@ -24,7 +24,8 @@
 ![Languages](https://skillicons.dev/icons?i=typescript,javascript,cpp,java,python,html,css,bash&theme=dark)
 
 ### 🌐 Frameworks & Libraries  
-![Angular](https://skillicons.dev/icons?i=angular&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=angular&theme=dark)
+
 
 ### 🧰 Tools & Platforms  
 ![Tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,linux&theme=dark)
