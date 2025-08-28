@@ -18,6 +18,11 @@
 
 ---
 
+## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=FF6B00)](https://miko-29.github.io/Portfolio-v1/)
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Languages  
