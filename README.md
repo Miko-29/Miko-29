@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/Miko-29/Miko-29/main/ionic%20light%20logo%20black.png" alt="Ionic Light Logo" width="42">
 
 ### 🧰 Tools & Platforms  
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,linux&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,firebase,postman,vscode,linux&theme=dark)
 
 ---
 
