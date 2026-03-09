@@ -29,7 +29,7 @@
 ![Languages](https://skillicons.dev/icons?i=typescript,javascript,cpp,java,python,html,css,bash&theme=dark)
 
 ### 🌐 Frameworks & Libraries  
-![Frameworks](https://skillicons.dev/icons?i=angular&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=angular,react&theme=dark)
 <img src="https://raw.githubusercontent.com/Miko-29/Miko-29/main/ionic%20light%20logo%20black.png" alt="Ionic Light Logo" width="42">
 
 ### 🧰 Tools & Platforms  
