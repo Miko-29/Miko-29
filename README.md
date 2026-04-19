@@ -79,7 +79,7 @@
 ---
 
 ## 🐍 My Contributions
-![Contributions](https://github.pumbas.net/api/contributions/Miko-29?days=365)
+![Contributions](https://github.pumbas.net/api/contributions/Miko-29?days=30)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Miko-29/snk/output/github-contribution-grid-snake-dark.svg)
 
 
