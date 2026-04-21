@@ -19,7 +19,7 @@
 ---
 
 ## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=FF6B00)](https://miko-29.github.io/Portfolio-v1/)
+[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=8FF5FF)](https://miko-29.github.io/PortfolioV2/)
 
 ---
 
